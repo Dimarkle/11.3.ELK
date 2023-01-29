@@ -9,7 +9,9 @@
 
 
 # Задание 3
-![Без имени](https://user-images.githubusercontent.com/118626944/215285973-3541c484-007b-4390-96f4-02f917e8b0d3.png)
+
+![3](https://user-images.githubusercontent.com/118626944/215331798-850c7a44-3dbb-4dd0-81e3-c872aa8dc248.jpg)
 
 # Задание 4
-![Без имени](https://user-images.githubusercontent.com/118626944/215286152-c5dc00ea-46af-4335-a57a-7339ac616d4d.jpg)
+
+![4](https://user-images.githubusercontent.com/118626944/215331804-2528e150-61f8-444f-8a15-fa2fe1b41018.jpg)
